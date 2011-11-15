@@ -31,3 +31,6 @@
 [submodule "extensions/uploadfield"]
 	path = extensions/uploadfield
 	url = http://github.com/rowan-lewis/uploadfield.git
+[submodule "extensions/scaffolds"]
+	path = extensions/scaffolds
+	url = git://github.com/brendo/scaffolds.git

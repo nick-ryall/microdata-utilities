@@ -59,3 +59,102 @@ Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/ni
 Line: 145 - XSLTProcessor::importStylesheet(): xsl:import : unable to load /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl
 Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
 15 November 2011 13:47 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/workspace/assets/uploadsoffice.jpg/</code>, does not exist. in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 315
+15 November 2011 15:00 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl:108: parser error : Opening and ending tag mismatch: template line 61 and article
+Line: 145 - XSLTProcessor::importStylesheet(): 		</article>
+Line: 145 - XSLTProcessor::importStylesheet(): 		          ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl:110: parser error : Opening and ending tag mismatch: stylesheet line 2 and template
+Line: 145 - XSLTProcessor::importStylesheet(): 	</xsl:template>
+Line: 145 - XSLTProcessor::importStylesheet(): 	               ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl:116: parser error : Extra content at the end of the document
+Line: 145 - XSLTProcessor::importStylesheet(): 	<xsl:template match='entry' mode='postal-address'>
+Line: 145 - XSLTProcessor::importStylesheet(): 	^
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/nickryall/Sites/utilities/workspace/pages/places.xsl line 3 element import
+Line: 145 - XSLTProcessor::importStylesheet(): xsl:import : unable to load /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 15:00 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl line 49 element apply-templates
+Line: 145 - XSLTProcessor::importStylesheet(): The value '$type' of the attribute 'mode' is not a valid QName.
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 15:00 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl line 49 element apply-templates
+Line: 145 - XSLTProcessor::importStylesheet(): The value '{$type}' of the attribute 'mode' is not a valid QName.
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 15:00 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl line 49 element apply-templates
+Line: 145 - XSLTProcessor::importStylesheet(): The value '{$type}' of the attribute 'mode' is not a valid QName.
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 15:00 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl line 49 element apply-templates
+Line: 145 - XSLTProcessor::importStylesheet(): The value '{$type}' of the attribute 'mode' is not a valid QName.
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 15:00 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl line 49 element apply-templates
+Line: 145 - XSLTProcessor::importStylesheet(): The value '{$type}' of the attribute 'mode' is not a valid QName.
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 15:01 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl line 49 element apply-templates
+Line: 145 - XSLTProcessor::importStylesheet(): The value '{$type}' of the attribute 'mode' is not a valid QName.
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 15:02 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl:51: parser error : Opening and ending tag mismatch: when line 49 and if
+Line: 145 - XSLTProcessor::importStylesheet(): 					</xsl:if>
+Line: 145 - XSLTProcessor::importStylesheet(): 					         ^
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/nickryall/Sites/utilities/workspace/pages/places.xsl line 3 element import
+Line: 145 - XSLTProcessor::importStylesheet(): xsl:import : unable to load /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 15:37 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/nickryall/Sites/utilities/workspace/utilities/things.xsl line 92 element call-template
+Line: 145 - XSLTProcessor::importStylesheet(): The attribute 'name' is missing.
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/nickryall/Sites/utilities/workspace/utilities/things.xsl line 162 element call-template
+Line: 145 - XSLTProcessor::importStylesheet(): The attribute 'name' is missing.
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 15:40 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): /Users/nickryall/Sites/utilities/workspace/utilities/things.xsl:96: parser error : StartTag: invalid element name
+Line: 145 - XSLTProcessor::importStylesheet(): 				<
+Line: 145 - XSLTProcessor::importStylesheet(): 				 ^
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/nickryall/Sites/utilities/workspace/pages/places.xsl line 3 element import
+Line: 145 - XSLTProcessor::importStylesheet(): xsl:import : unable to load /Users/nickryall/Sites/utilities/workspace/utilities/things.xsl
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 15:40 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 158 - XSLTProcessor::transformToXml(): runtime error: file /Users/nickryall/Sites/utilities/workspace/utilities/things.xsl line 41 element choose
+Line: 158 - XSLTProcessor::transformToXml(): xsl:choose: xsl:when expected first in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 15:42 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 158 - XSLTProcessor::transformToXml(): runtime error: file /Users/nickryall/Sites/utilities/workspace/utilities/things.xsl line 41 element choose
+Line: 158 - XSLTProcessor::transformToXml(): xsl:choose: xsl:when expected first in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 16:03 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 158 - XSLTProcessor::transformToXml(): Invalid number of arguments
+Line: 158 - XSLTProcessor::transformToXml(): runtime error: file /Users/nickryall/Sites/utilities/workspace/utilities/things.xsl line 142 element time
+Line: 158 - XSLTProcessor::transformToXml(): Internal error: Failed to evaluate the AVT of attribute 'content'. in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 16:25 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/nickryall/Sites/utilities/workspace/utilities/things.xsl line 165 element with-param
+Line: 145 - XSLTProcessor::importStylesheet(): element with-param is not allowed within that context
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 16:39 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 158 - XSLTProcessor::transformToXml(): runtime error: file /Users/nickryall/Sites/utilities/workspace/utilities/things.xsl line 199 element choose
+Line: 158 - XSLTProcessor::transformToXml(): Variable 'display' has not been declared. in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 17:12 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): /Users/nickryall/Sites/utilities/workspace/utilities/things.xsl:136: parser error : Opening and ending tag mismatch: meta line 111 and article
+Line: 145 - XSLTProcessor::importStylesheet(): 		</article>
+Line: 145 - XSLTProcessor::importStylesheet(): 		          ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/nickryall/Sites/utilities/workspace/utilities/things.xsl:138: parser error : Opening and ending tag mismatch: meta line 110 and xsl:template
+Line: 145 - XSLTProcessor::importStylesheet(): 	</xsl:template>
+Line: 145 - XSLTProcessor::importStylesheet(): 	               ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/nickryall/Sites/utilities/workspace/utilities/things.xsl:310: parser error : Opening and ending tag mismatch: article line 107 and xsl:stylesheet
+Line: 145 - XSLTProcessor::importStylesheet(): </xsl:stylesheet>
+Line: 145 - XSLTProcessor::importStylesheet():                  ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/nickryall/Sites/utilities/workspace/utilities/things.xsl:310: parser error : Premature end of data in tag template line 84
+Line: 145 - XSLTProcessor::importStylesheet(): </xsl:stylesheet>
+Line: 145 - XSLTProcessor::importStylesheet():                  ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/nickryall/Sites/utilities/workspace/utilities/things.xsl:310: parser error : Premature end of data in tag stylesheet line 2
+Line: 145 - XSLTProcessor::importStylesheet(): </xsl:stylesheet>
+Line: 145 - XSLTProcessor::importStylesheet():                  ^
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/nickryall/Sites/utilities/workspace/pages/events.xsl line 3 element import
+Line: 145 - XSLTProcessor::importStylesheet(): xsl:import : unable to load /Users/nickryall/Sites/utilities/workspace/utilities/things.xsl
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 17:16 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 158 - XSLTProcessor::transformToXml(): Invalid number of arguments
+Line: 158 - XSLTProcessor::transformToXml(): runtime error: file /Users/nickryall/Sites/utilities/workspace/utilities/things.xsl line 111 element meta
+Line: 158 - XSLTProcessor::transformToXml(): Internal error: Failed to evaluate the AVT of attribute 'content'. in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 17:16 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/nickryall/Sites/utilities/workspace/utilities/things.xsl line 111 element meta
+Line: 145 - XSLTProcessor::importStylesheet(): Attribute 'content': Failed to compile the expression 'date:date-time(date:difference(concat(start-date, 'T', start-date/@time, ':00'), concat(end-date, 'T', end-date/@time, ':00'))' in the AVT.
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 17:16 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 158 - XSLTProcessor::transformToXml(): Invalid number of arguments
+Line: 158 - XSLTProcessor::transformToXml(): runtime error: file /Users/nickryall/Sites/utilities/workspace/utilities/things.xsl line 111 element meta
+Line: 158 - XSLTProcessor::transformToXml(): Internal error: Failed to evaluate the AVT of attribute 'content'. in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 17:16 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/nickryall/Sites/utilities/workspace/utilities/things.xsl line 111 element meta
+Line: 145 - XSLTProcessor::importStylesheet(): Attribute 'content': Failed to compile the expression 'date:date-time(date:difference(concat(start-date, 'T', start-date/@time, ':00'), concat(end-date, 'T', end-date/@time, ':00'))))' in the AVT.
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 17:24 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 158 - XSLTProcessor::transformToXml(): xmlXPathCompOpEval: function parse-date not found
+Line: 158 - XSLTProcessor::transformToXml(): Unregistered function
+Line: 158 - XSLTProcessor::transformToXml(): runtime error: file /Users/nickryall/Sites/utilities/workspace/utilities/things.xsl line 111 element meta
+Line: 158 - XSLTProcessor::transformToXml(): Internal error: Failed to evaluate the AVT of attribute 'content'. in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 17:24 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 158 - XSLTProcessor::transformToXml(): xmlXPathCompOpEval: function parse-date not found
+Line: 158 - XSLTProcessor::transformToXml(): Unregistered function
+Line: 158 - XSLTProcessor::transformToXml(): runtime error: file /Users/nickryall/Sites/utilities/workspace/utilities/things.xsl line 111 element meta
+Line: 158 - XSLTProcessor::transformToXml(): Internal error: Failed to evaluate the AVT of attribute 'content'. in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272

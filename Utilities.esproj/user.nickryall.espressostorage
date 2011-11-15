@@ -52,6 +52,24 @@
 				<key>StateType</key>
 				<string>DefaultTab</string>
 			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/nickryall/Sites/utilities/workspace/utilities/events.xsl</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/nickryall/Sites/Utilities/workspace/utilities/things.xsl</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
+			<dict>
+				<key>DocumentURL</key>
+				<string>file://localhost/Users/nickryall/Sites/utilities/workspace/pages/events.xsl</string>
+				<key>StateType</key>
+				<string>DefaultTab</string>
+			</dict>
 		</array>
 	</dict>
 	<key>com.macrabbit.Espresso.WorkspaceTabs.DisclosureCollapsed</key>

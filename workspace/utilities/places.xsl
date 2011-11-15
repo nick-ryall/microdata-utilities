@@ -11,6 +11,14 @@
 	
 		<section itemscope="itemscope" itemtype="http://schema.org/{$type}">
 			
+			
+			
+			<!-- Optional Image -->
+			<xsl:if test="image">
+				<img itemprop="image" src="{$workspace}/{image/@path}/{image/filename}" alt="{name}" />
+			</xsl:if>
+			
+			
 			<!-- Wrap the name in URL if it's been specified -->
 			<xsl:choose>	
 				<xsl:when test="url">
@@ -69,10 +77,19 @@
 				    <meta itemprop="longitude" content="{map-location/@longitude}" />
 				 </div>
 	
-				 <a itemprop="maps" href="http://maps.google.com/maps?q=to:{name}@{map-location/map/@centre}+&amp;ie=UTF8" rel="external">
-				 	<img itemprop="image" src="http://maps.google.com/maps/api/staticmap?center={map-location/map/@centre}&amp;markers=color:green|label:P|size:small|{map-location/map/@centre}&amp;zoom=15&amp;size=380x220&amp;sensor=false" alt="{name} Location" /> 
-				 </a>
-			</xsl:if>	
+				
+				<!-- Display the Google map -->
+				 <a itemprop="maps" href="http://maps.google.com/maps?q={map-location/map/@centre}+&amp;ie=UTF8" rel="external">
+				 	
+				 	<!-- Display the Google map -->
+				 	<img src="http://maps.google.com/maps/api/staticmap?center={map-location/map/@centre}&amp;markers=color:green|label:P|size:small|{map-location/map/@centre}&amp;zoom=15&amp;size=380x220&amp;sensor=false" alt="{name} Location" /> 
+				 	
+				 	<!-- Display the street view image  -->
+				 	<!--<img itemprop="image" src="http://cbk0.google.com/cbk?output=thumbnail&amp;cb_client=maps_sv&amp;thumb=2&amp;thumbfov=60&amp;ll={map-location/@latitude},{map-location/@longitude}&amp;cbll={map-location/@latitude},{map-location/@longitude}&amp;thumbpegman=1&amp;w=100&amp;h=100" />-->
+				 </a> 
+				 
+			</xsl:if>
+		
 
 		</section>
 

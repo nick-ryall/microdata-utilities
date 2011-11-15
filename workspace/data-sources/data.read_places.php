@@ -27,7 +27,8 @@
 				'country: formatted',
 				'url: formatted',
 				'phone: formatted',
-				'fax: formatted'
+				'fax: formatted',
+				'image'
 		);
 
 
@@ -44,7 +45,7 @@
 					'website' => 'http://nick.sites.randb.com.au/utilities',
 					'email' => 'nick@randb.com.au'),
 				'version' => 'Symphony 2.2.5',
-				'release-date' => '2011-11-15T02:35:49+00:00'
+				'release-date' => '2011-11-15T03:46:31+00:00'
 			);
 		}
 

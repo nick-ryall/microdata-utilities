@@ -1,0 +1,6 @@
+[submodule "extensions/maplocationfield"]
+	path = extensions/maplocationfield
+	url = git://github.com/nickdunn/maplocationfield.git
+[submodule "extensions/textboxfield"]
+	path = extensions/textboxfield
+	url = git://github.com/rowan-lewis/textboxfield.git

@@ -1,0 +1,54 @@
+============================================
+Log Created: 2011-11-15T10:47:31+10:00
+============================================
+Symphony Log
+Version: 2.2.5
+--------------------------------------------
+15 November 2011 12:40 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/nickryall/Sites/utilities/workspace/pages/places.xsl line 12 element import
+Line: 145 - XSLTProcessor::importStylesheet(): xsltParseStylesheetTop: ignoring misplaced import element
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 12:40 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/nickryall/Sites/utilities/workspace/pages/places.xsl line 12 element import
+Line: 145 - XSLTProcessor::importStylesheet(): xsltParseStylesheetTop: ignoring misplaced import element
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 12:40 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/nickryall/Sites/utilities/workspace/pages/places.xsl line 12 element import
+Line: 145 - XSLTProcessor::importStylesheet(): xsltParseStylesheetTop: ignoring misplaced import element
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 12:41 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/nickryall/Sites/utilities/workspace/pages/places.xsl line 12 element import
+Line: 145 - XSLTProcessor::importStylesheet(): xsltParseStylesheetTop: ignoring misplaced import element
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 12:42 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl:12: parser error : Specification mandate value for attribute itemscope
+Line: 145 - XSLTProcessor::importStylesheet(): 		<section itemscope itemtype="http://schema.org/{$type}">
+Line: 145 - XSLTProcessor::importStylesheet(): 		                   ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl:12: parser error : attributes construct error
+Line: 145 - XSLTProcessor::importStylesheet(): 		<section itemscope itemtype="http://schema.org/{$type}">
+Line: 145 - XSLTProcessor::importStylesheet(): 		                   ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl:12: parser error : Couldn't find end of Start Tag section line 12
+Line: 145 - XSLTProcessor::importStylesheet(): 		<section itemscope itemtype="http://schema.org/{$type}">
+Line: 145 - XSLTProcessor::importStylesheet(): 		                   ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl:67: parser error : Specification mandate value for attribute itemscope
+Line: 145 - XSLTProcessor::importStylesheet(): 				<div itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
+Line: 145 - XSLTProcessor::importStylesheet(): 				                              ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl:67: parser error : attributes construct error
+Line: 145 - XSLTProcessor::importStylesheet(): 				<div itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
+Line: 145 - XSLTProcessor::importStylesheet(): 				                              ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl:67: parser error : Couldn't find end of Start Tag div line 67
+Line: 145 - XSLTProcessor::importStylesheet(): 				<div itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
+Line: 145 - XSLTProcessor::importStylesheet(): 				                              ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl:70: parser error : Opening and ending tag mismatch: if line 66 and div
+Line: 145 - XSLTProcessor::importStylesheet(): 				 </div>
+Line: 145 - XSLTProcessor::importStylesheet(): 				       ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl:75: parser error : Opening and ending tag mismatch: template line 8 and if
+Line: 145 - XSLTProcessor::importStylesheet(): 			</xsl:if>	
+Line: 145 - XSLTProcessor::importStylesheet(): 			         ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl:77: parser error : Opening and ending tag mismatch: stylesheet line 2 and section
+Line: 145 - XSLTProcessor::importStylesheet(): 		</section>
+Line: 145 - XSLTProcessor::importStylesheet(): 		          ^
+Line: 145 - XSLTProcessor::importStylesheet(): /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl:79: parser error : Extra content at the end of the document
+Line: 145 - XSLTProcessor::importStylesheet(): 	</xsl:template>
+Line: 145 - XSLTProcessor::importStylesheet(): 	^
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /Users/nickryall/Sites/utilities/workspace/pages/places.xsl line 3 element import
+Line: 145 - XSLTProcessor::importStylesheet(): xsl:import : unable to load /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272
+15 November 2011 12:42 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 158 - XSLTProcessor::transformToXml(): runtime error: file /Users/nickryall/Sites/utilities/workspace/utilities/places.xsl line 73 element img
+Line: 158 - XSLTProcessor::transformToXml(): Variable 'google-api-key' has not been declared.
+Line: 158 - XSLTProcessor::transformToXml(): xmlXPathCompiledEval: evaluation failed in file /Users/nickryall/Sites/utilities/symphony/lib/toolkit/class.frontendpage.php on line 272

@@ -1,0 +1,34 @@
+============================================
+Log Created: 2011-11-15T10:46:26+10:00
+============================================
+Symphony Installer Log
+Opened: 2011-11-15T10:46:26+10:00
+Version: 2.2.5
+Domain: http://nick.sites.randb.com.au/utilities
+--------------------------------------------
+
+============================================
+INSTALLATION PROCESS STARTED (2011-11-15T10:47:30+10:00)
+============================================
+2011/11/15 10:47:30 > Notice: MYSQL: Establishing Connection...Done
+2011/11/15 10:47:30 > Notice: MYSQL: Selecting Database 'microdata-utilities'...Done
+2011/11/15 10:47:30 > Notice: MYSQL: Importing Table Schema...Done
+2011/11/15 10:47:31 > Notice: MYSQL: Creating Default Author...Done
+2011/11/15 10:47:31 > Notice: WRITING: Creating 'manifest' folder (/manifest)
+2011/11/15 10:47:31 > Notice: WRITING: Creating 'logs' folder (/manifest/logs)
+2011/11/15 10:47:31 > Notice: WRITING: Creating 'cache' folder (/manifest/cache)
+2011/11/15 10:47:31 > Notice: WRITING: Creating 'tmp' folder (/manifest/tmp)
+2011/11/15 10:47:31 > Notice: WRITING: Configuration File
+2011/11/15 10:47:31 > Notice: CONFIGURING: Frontend
+2011/11/15 10:47:31 > Notice: WRITING: Creating 'workspace' folder (/workspace)
+2011/11/15 10:47:31 > Notice: WRITING: Creating 'data-sources' folder (/workspace/data-sources)
+2011/11/15 10:47:31 > Notice: WRITING: Creating 'events' folder (/workspace/events)
+2011/11/15 10:47:31 > Notice: WRITING: Creating 'pages' folder (/workspace/pages)
+2011/11/15 10:47:31 > Notice: WRITING: Creating 'utilities' folder (/workspace/utilities)
+2011/11/15 10:47:31 > Notice: Installation Process Completed In 1 sec
+============================================
+INSTALLATION COMPLETED: Execution Time - 1 sec (15.11.11 10:47:31)
+============================================
+
+
+

@@ -65,8 +65,8 @@
 			<!-- Optional Geo Coordinates and Map -->
 			<xsl:if test="map-location">		
 				<div itemprop="geo" itemscope="itemscope" itemtype="http://schema.org/GeoCoordinates">
-				    <meta itemprop="latitude" content="map-location/@latitude" />
-				    <meta itemprop="longitude" content="map-location/@longitude" />
+				    <meta itemprop="latitude" content="{map-location/@latitude}" />
+				    <meta itemprop="longitude" content="{map-location/@longitude}" />
 				 </div>
 	
 				 <a itemprop="maps" href="http://maps.google.com/maps?q=to:{name}@{map-location/map/@centre}+&amp;ie=UTF8" rel="external">

@@ -149,7 +149,7 @@
 		
 		<!-- Image -->
 		<xsl:if test="$entry/image">
-			<img itemprop="image" src="{$workspace}/{$entry/image/@path}/{$entry/image/filename}" alt="{$entry/name}" />
+			<img itemprop="image" src="{$workspace}{$entry/image/@path}/{$entry/image/filename}" alt="{$entry/name}" />
 		</xsl:if>	
 		
 		<header>

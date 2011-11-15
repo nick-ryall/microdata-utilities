@@ -179,7 +179,7 @@
 					<dl>	
 						<dt>Start date:</dt>
 						<dd>
-							<time itemprop="startDate" datetime="{concat($entry/start-date, 'T', $entry/start-date/@time, ':00')}">
+							<time datetime="{concat($entry/start-date, 'T', $entry/start-date/@time, ':00')}">
 								<xsl:value-of select="$entry/start-date" />
 							</time>
 						</dd>
@@ -187,7 +187,7 @@
 						<xsl:if test="$entry/end-date != ''">
 							<dt>End date:</dt>
 							<dd>
-								<time itemprop="endDate" datetime="{concat($entry/end-date, 'T', $entry/end-date/@time, ':00')}">
+								<time datetime="{concat($entry/end-date, 'T', $entry/end-date/@time, ':00')}">
 									<xsl:value-of select="$entry/end-date" />
 								</time>
 							</dd>
